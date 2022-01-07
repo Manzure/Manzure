@@ -1,0 +1,6 @@
+// KQL Query to visualize security alert trend by month.
+let timerange=365d;
+SecurityAlert
+| where TimeGenerated > ago(timerange)
+| summarize ProductName=dcount(SystemAlertId)by AlertSeverity, startofmonth(TimeGenerated)
+| render columnchart with (kind=unstacked, title="Microsoft Sentinel Incident Severity", xtitle="Month")
