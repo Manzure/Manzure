@@ -34,9 +34,7 @@
         "triggerOperator": "GreaterThan",
         "triggerThreshold": 0,
         "tactics": [
-          "InitialAccess",
-          "CommandAndControl",
-          "Execution"
+          "CommandAndControl"
         ]
       }
     }
