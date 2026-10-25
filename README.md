@@ -55,7 +55,7 @@ Explore my repositories for experiments, prototypes, and practical approaches to
 I'm always interested in learning, exchanging ideas, and building practical solutions with the cybersecurity community.
 
 - 💻 GitHub: [@Manzure](https://github.com/Manzure)
-- 💼 LinkedIn: [Connect with me]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/tnmanohara/)
+- 💼 LinkedIn: [Connect with me]([Manohar](https://www.linkedin.com/in/tnmanohara/)
 
 ---
 
